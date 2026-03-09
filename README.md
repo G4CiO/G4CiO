@@ -59,4 +59,4 @@ Implementation of **EKF Localization** and path-tracking controllers.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=G4CiO&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=G4CiO&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
+[![Gun's GitHub stats](https://github-readme-stats.vercel.app/api?username=G4CiO)](https://github.com/anuraghazra/github-readme-stats)
