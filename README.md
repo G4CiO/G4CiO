@@ -29,7 +29,7 @@ An **Automatic Parking Model** based on **Deep Reinforcement Learning (DDPG)**.
 - Trained over 50,000 timesteps to ensure convergence and safety.
 
 #### 🤖 [Mobile-Robot-Lab (EKF Localization)](https://github.com/G4CiO/Mobile-Robot-LAB-1)
-Implementation of **EKF Localization** and path-tracking controllers[cite: 28, 34].
+Implementation of **EKF Localization** and path-tracking controllers.
 - Benchmarked PID, Pure Pursuit, and **Stanley Controllers** for high-precision path following.
 - Developed a Sensor Fusion pipeline to fuse GPS and wheel odometry using an **Extended Kalman Filter**.
 
