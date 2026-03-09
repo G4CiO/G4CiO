@@ -66,7 +66,7 @@ Implementation of **EKF Localization** and path-tracking controllers.
 
 ### 📫 Connect with me:
 - ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) natthaphat.sookpanya@gmail.com
-- ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) [Natthaphat Sookpanya](www.linkedin.com/in/natthaphat-sookpanya-64a499335)
+- ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) [Natthaphat Sookpanya](https://www.linkedin.com/in/natthaphat-sookpanya-64a499335)
 - ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) [github.com/G4CiO](https://github.com/G4CiO)
 
 <h3>My GitHub contributions summary</h3>
