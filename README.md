@@ -1,6 +1,6 @@
 # Hi there, I'm Natthaphat (Gun) 👋
 
-I am a **Robotics and Automation Engineering** student at the Institute of Field Robotics (FIBO), KMUTT[cite: 8, 9]. [cite_start]I specialize in **Autonomous Mobile Robots (AMR)**, **Computer Vision**, and **Deep Learning**[cite: 3]. [cite_start]My experience ranges from mechanical design and control algorithms to full-cycle project implementation from simulation to real-world hardware.
+I am a **Robotics and Automation Engineering** student at the Institute of Field Robotics (FIBO), KMUTT. I specialize in **Autonomous Mobile Robots (AMR)**, **Computer Vision**, and **Deep Learning**. My experience ranges from mechanical design and control algorithms to full-cycle project implementation from simulation to real-world hardware.
 
 ---
 
