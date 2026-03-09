@@ -6,12 +6,26 @@ I am a **Robotics and Automation Engineering** student at the Institute of Field
 
 ### 🛠 Skills & Technologies
 
-- **Robotics Frameworks:** ROS2 (Humble), micro-ROS, Nav2, SLAM, Gazebo, RViz2
-- **Computer Vision & AI:** Visual Odometry, Deep Reinforcement Learning, Lane Detection, Camera Calibration (Stereo/Fisheye)
-- **Programming:** Python, C, C++, OOP
-- **Hardware & Protocols:** NVIDIA Jetson, STM32, Arduino, Sensor Fusion (Lidar, IMU, EKF), UART, CANBUS, SPI
-- **Engineering Tools:** SolidWorks (CAD/CAE), MATLAB & Simulink, Docker, Git/GitHub
+#### 💻 Programming Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
 
+#### 🤖 Robotics & Frameworks
+![ROS2](https://img.shields.io/badge/ros2-22314E?style=for-the-badge&logo=ros&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Gazebo](https://img.shields.io/badge/Gazebo-FFA500?style=for-the-badge&logo=gazebo&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) 
+
+#### 🖥️ ML/DL
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![ONNX](https://img.shields.io/badge/onnx-%23ffffff.svg?style=for-the-badge&logo=onnx&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 	![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+
+#### 🔌 Hardware & Protocols
+![Nvidia](https://img.shields.io/badge/nvidajetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white) ![STM32](https://img.shields.io/badge/stm32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+
+#### 📐 Engineering Tools
+![SolidWorks](https://img.shields.io/badge/SolidWorks-CC1F35?style=for-the-badge&logo=solidworks&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-ED1C24?style=for-the-badge&logo=mathworks&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+#### 💻 Editors
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+#### 🎛️ Operating System
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ---
 
 ### 🚀 Featured Projects
@@ -51,9 +65,9 @@ Implementation of **EKF Localization** and path-tracking controllers.
 ---
 
 ### 📫 Connect with me:
-- **Email:** natthaphat.sookpanya@gmail.com
-- **LinkedIn:** [Natthaphat Sookpanya](www.linkedin.com/in/natthaphat-sookpanya-64a499335)
-- **Portfolio/GitHub:** [github.com/G4CiO](https://github.com/G4CiO)
+- ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) natthaphat.sookpanya@gmail.com
+- ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) [Natthaphat Sookpanya](www.linkedin.com/in/natthaphat-sookpanya-64a499335)
+- ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) [github.com/G4CiO](https://github.com/G4CiO)
 
 <h3>My GitHub contributions summary</h3>
 
